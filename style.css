@@ -62,7 +62,7 @@ body {
   right: 20px;
   top: 50%;
   transform: translateY(-50%);
-  font-size: 20px;
+  font-size: 16px;
 }
 
 .wrapper .remember-forgot {
@@ -96,7 +96,7 @@ body {
   border-radius: 40px;
   box-shadow: 0 0 10px rgba(0, 0, 0, .1);
   cursor: pointer;
-  font-size: 16px;
+  font-size: 15px;
   color: #333;
   font-weight: 600;
 }
